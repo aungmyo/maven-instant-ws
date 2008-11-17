@@ -5,5 +5,10 @@
       <prefix>wsdl-builder</prefix>
       <artifactId>maven-wsdl-builder-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>instantws-archetype</name>
+      <prefix>instantws-archetype</prefix>
+      <artifactId>instantws-archetype</artifactId>
+    </plugin>
   </plugins>
 </metadata>
