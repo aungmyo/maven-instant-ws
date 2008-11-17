@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <plugins>
+    <plugin>
+      <name>maven-wsdl-builder-plugin Maven Mojo</name>
+      <prefix>wsdl-builder</prefix>
+      <artifactId>maven-wsdl-builder-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
