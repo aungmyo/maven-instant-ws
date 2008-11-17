@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+  <archetypes>
+    <archetype>
+		<groupId>regm</groupId>
+		<artifactId>instantws-archetype</artifactId>
+		<version>RELEASE</version>
+		<repository>http://maven-instant-ws.googlecode.com/svn/repo/</repository>
+		<description>Archetype to create web service projects using Maven and JAX-WS</description>
+    </archetype>
+  </archetypes>
+</archetype-catalog>
