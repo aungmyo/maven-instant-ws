@@ -4,7 +4,7 @@
     <archetype>
 		<groupId>regm</groupId>
 		<artifactId>instantws-archetype</artifactId>
-		<version>0.1</version>
+		<version>LATEST</version>
 		<repository>http://maven-instant-ws.googlecode.com/svn/repo/</repository>
 		<description>Archetype to create web service projects using Maven and JAX-WS</description>
     </archetype>
